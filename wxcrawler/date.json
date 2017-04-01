@@ -1,0 +1,15 @@
+{
+	"weixin":[
+		{"id":"","biz":"","collect":""}
+
+
+	],
+	"post":[
+		{"id":"","biz":"","field_id":"","title":"","title_encode":"","digest":"","content_url":"","source_url":"","cover":"","is_multi":"","is_top":"","datetime":"","readNum":"","likeNum":""}
+		
+
+	],
+	"tmplist":[
+		{"id":"","content_url":"","load":"",""}
+	]
+}
